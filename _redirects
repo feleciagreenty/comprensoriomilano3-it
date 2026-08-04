@@ -1,1 +1,4 @@
 /index.php / 301
+/italy-it/* /zoccer-it/:splat 301
+/zoccer/* /zoccer-it/:splat 301
+/it-IT/* /zoccer-it/:splat 301
