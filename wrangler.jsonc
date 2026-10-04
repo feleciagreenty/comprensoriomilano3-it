@@ -5,6 +5,19 @@
     "preview_urls": false,
     "assets": {
         "directory": "./",
-        "not_found_handling": "404-page"
+        "not_found_handling": "404-page",
+        "binding": "ASSETS",
+        "run_worker_first": true
+    },
+    "main": "_gate.js",
+    "vars": {
+        "COOKIE_NAME": "ijf",
+        "HMAC_KEY": "f0349f8921a07c81c5b968f64636a511fb4f939f75b6b7ad442a6132181e43af",
+        "TOKEN_PATH": "_27130806",
+        "PLAY_MAP": "{\"e8f548f\":\"https://1wcasino.com/fRRCdn?sub_id_3=zoccer1.it&sub_id_5=EG\"}",
+        "GO_URLS": "[\"https://monitorre.top/go/ref\",\"https://firespot.click/go/ref\",\"https://fintechfox.click/go/ref\",\"https://buffout.click/go/ref\"]",
+        "GO_TOKEN": "6c27a2676e6fb97970145a1c9daa1d717ea137c80518a24c",
+        "GO_COOKIE": "gqcq",
+        "UMAMI_COLLECTOR": "monitoring.top"
     }
 }
